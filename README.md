@@ -1,10 +1,11 @@
-# 배포 사이트  [https://soonerthebetter.site](https://soonerthebetter.site/)
-```3월 28일 - 4월 27일``` 
-<br></br>
-지속적인 리팩토링 및 디벨롭 진행중
-<br></br>
-# 실시간 입, 재고관리 관리자페이지 구축
-관리자 업데이트 중        
+# <img  width="10%" src="https://github.com/hyoreal/hyoreal/assets/102732425/2705d65c-bd89-4f5f-93cb-0253b5df0a2b"> 실시간 재고 입/출고 관리 서비스
+관리자를 위한 실시간 입/출고 알림과 대시보드를 통한 데이터 시각화, QR코드를 통해 쉽고 빠른 재고관리로 올바른 판매를 돕는 서비스</br>
+
+```3월 28일 - 4월 27일 (지속적인 리팩토링 및 디벨롭 진행중)```
+
+### 📝 [문서](https://github.com/hyoreal/asap/wiki)
+
+# 실시간 입, 재고관리 관리자페이지 구축   
 <a href="https://ibb.co/d4bNS2B"><img width="60%" height="40%" src="https://i.ibb.co/TMKQZ8c/asap.png" alt="2023-04-21-214035" border="0"></a>
 <br></br>
 # Server Architecture  
