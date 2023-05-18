@@ -18,8 +18,3 @@ QR코드를 통해 쉽고 빠른 재고관리로 올바른 판매를 돕는 서�
 <br></br>
 # Trouble Shooting
 <img width="80%" height="80%" src="https://github.com/hyoreal/hyoreal/assets/102732425/2fc5b4f4-db9c-4b4e-959b-f9164c0845c6"></a>
-
-
-# Stack  
-front - REACT  
-back - Spring Boot, MyBatis, MySQL, Redis, Docker, Nginx 
