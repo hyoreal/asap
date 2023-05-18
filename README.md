@@ -3,7 +3,7 @@
 
 ```3월 28일 - 4월 27일 (지속적인 리팩토링 및 디벨롭 진행중)```
 
-### 📝 [문서](https://github.com/hyoreal/asap/wiki)
+### 📝 [문서](https://github.com/hyoreal/asap/wiki/ASAP-Documents)
 
 # 실시간 입, 재고관리 관리자페이지 구축   
 <a href="https://ibb.co/d4bNS2B"><img width="60%" height="40%" src="https://i.ibb.co/TMKQZ8c/asap.png" alt="2023-04-21-214035" border="0"></a>
