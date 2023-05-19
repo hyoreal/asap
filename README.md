@@ -4,6 +4,8 @@ QR코드를 통해 쉽고 빠른 재고관리로 올바른 판매를 돕는 서�
 
 ```3월 28일 - 4월 27일 (지속적인 리팩토링 및 디벨롭 진행중)```
 
+### 📎[배포 사이트](https://soonerthebetter.site/)
+
 ### 📝 [문서](https://github.com/hyoreal/asap/wiki/ASAP-Documents)
 
 # 실시간 입, 재고관리 관리자페이지 구축   
