@@ -15,8 +15,8 @@ QR코드를 통해 쉽고 빠른 재고관리로 올바른 판매를 돕는 서�
 <a href="https://ibb.co/wc20cBn"><img  width="60%" height="40%" src="https://i.ibb.co/rdX7dFB/image.png" alt="asap" border="0"></a>
 <br></br>
 # Service Summary & Development Part
-<!-- <img width="80%" height="80%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102732425/239179326-c23a2daa-b619-487d-ab8e-4d511e27136d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230522T122235Z&X-Amz-Expires=300&X-Amz-Signature=f621d017d485e42396e532b773f91170686c1ec6fbf64bf3a37ef259ad07c59c&X-Amz-SignedHeaders=host&actor_id=102732425&key_id=0&repo_id=588274184"></a>
+<img width="80%" height="80%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102732425/239179326-c23a2daa-b619-487d-ab8e-4d511e27136d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230522T122235Z&X-Amz-Expires=300&X-Amz-Signature=f621d017d485e42396e532b773f91170686c1ec6fbf64bf3a37ef259ad07c59c&X-Amz-SignedHeaders=host&actor_id=102732425&key_id=0&repo_id=588274184"></a>
 <img width="80%" height="80%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102732425/239179332-c7496387-e654-414a-bfdd-0c17448a44c5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230522T122309Z&X-Amz-Expires=300&X-Amz-Signature=3e610ba2b41885a2d8776b191c651bdb178a4799d42574a311476e11e895f15d&X-Amz-SignedHeaders=host&actor_id=102732425&key_id=0&repo_id=588274184"></a>
-<br></br> -->
+<br></br>
 <!-- # Trouble Shooting
 <img width="80%" height="80%" src=""></a> -->
